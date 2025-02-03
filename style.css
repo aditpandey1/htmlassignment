@@ -114,6 +114,8 @@ nav{
 }
 .section1-info button:hover{
     transform: scale(1.33);
+    background-color: grey;
+    color: black;
 }
 
 .section1-image{
