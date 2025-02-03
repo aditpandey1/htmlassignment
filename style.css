@@ -113,8 +113,7 @@ nav{
     transition: .3s;
 }
 .section1-info button:hover{
-    height: 60px;
-    width: 220px;
+    transform: scale(1.33);
 }
 
 .section1-image{
